@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b83125bb-2453-45c6-b9cf-9beeb61201eb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Data_OP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_OP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/events.out.tfevents.1733218354.mattgpu.36690.0" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/events.out.tfevents.1733218354.mattgpu.36690.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/info.json" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e0" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e1" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e2" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e3" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e4" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e5" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e6" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e84" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e84" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e85" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e85" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e86" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e86" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e87" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e87" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e88" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/model.bin.e88" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e0" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e1" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e2" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e3" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e4" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e5" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e6" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e84" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e84" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e85" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e85" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e86" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e86" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e87" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e87" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e88" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/optimizer.bin.e88" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/total_HIST_run.log" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20211231_TrdCSI1000/total_HIST_run.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/events.out.tfevents.1733189466.mattgpu.42675.0" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/events.out.tfevents.1733189466.mattgpu.42675.0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e10" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e11" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e12" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e13" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e14" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e15" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/model.bin.e15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e10" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e11" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e12" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e13" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e13" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e14" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e15" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/optimizer.bin.e15" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/total_HIST_run.log" beforeDir="false" afterPath="$PROJECT_DIR$/output_my/total_HIST_fp0020_core_fct_dat_20160201_20221231/total_HIST_run.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pCEzaWY5xeIx6h6hsrMPvwQGI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "last_opened_file_path": "/home/zlt/MyProjects/HIST/venv/venv_1",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HIST" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.learn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b83125bb-2453-45c6-b9cf-9beeb61201eb" name="Changes" comment="" />
+      <created>1732261920340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732261920340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/data/dataset/__init__.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/data/dataset/__init__.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/utils/mod.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/utils/mod.py</url>
+          <line>158</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/utils/mod.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/utils/mod.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/qlib/qlib/__init__.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/learn.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309_1/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/__init__.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309_1/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/__init__.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309_1/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/__init__.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309_1/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/__init__.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/anaconda3.11/envs/py309_1/lib/python3.9/site-packages/pyqlib-0.9.5.99-py3.9-linux-x86_64.egg/qlib/__init__.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
